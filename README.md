@@ -1,4 +1,4 @@
-# ARTI308_lab1
+# Introduction 
 
 Hi, I am Shahad!
 
